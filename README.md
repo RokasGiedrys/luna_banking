@@ -1,10 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>BankSync Project</title>
-</head>
+
 <body>
   <h1>BankSync: Bank Account Integration & Management App</h1>
   <p>
@@ -111,4 +105,3 @@ cd luna_banking</code></pre>
     This step-by-step implementation taught me the power of combining different tools and frameworks to solve real-world problems.
   </p>
 </body>
-</html>
