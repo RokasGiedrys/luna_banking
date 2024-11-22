@@ -11,7 +11,7 @@
     This project is a comprehensive bank account management application that I built while learning 
     <strong>Plaid</strong>, <strong>Appwrite</strong>, and <strong>Dwolla</strong>. 
     I followed the implementation from 
-    <a href="https://github.com/adrianhajdin/banking">this repository</a> 
+    <a href="https://github.com/adrianhajdin/banking">Adrian Hajdin banking app repository</a> 
     step-by-step to build and understand the functionality.
   </p>
 
@@ -107,7 +107,7 @@ cd luna_banking</code></pre>
 
   <h2>📌 Acknowledgments</h2>
   <p>
-    A huge thanks to the Andrians's repository for the guidance and inspiration for this project. 
+    A huge thanks to the Andrian's repository for the guidance and inspiration for this project. 
     This step-by-step implementation taught me the power of combining different tools and frameworks to solve real-world problems.
   </p>
 </body>
